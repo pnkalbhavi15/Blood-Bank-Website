@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* overflow: hidden; */
+}
+
+.form-banner img {
+  height: 100%;
+  width: 100%;
+}
+
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.navbar {
+  background-color: black !important;
+  color: white !important;
+}
+.nav-link,
+.navbar-brand {
+  background-color: black !important;
+  color: white !important;
+}
